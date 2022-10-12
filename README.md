@@ -1,11 +1,11 @@
 <p align="center">
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Artika Shrivastava</h1>
+<h1 align="center">Hey I'm Aashutosh Goyal</h1>
 <h3 align="center">Frontend Developer</h3>
 <p align="center"
 <a href="https://www.linkedin.com/in/artika-shrivastava/" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-flat-icon/linkedin-flat-icon-10.jpg" alt="Artika" height="40" width="40" /> &nbsp</a>
-<a href = "emailto: artika9417@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
+<a href = "emailto: aashutosh89660@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
 </p>
 </p>
 
