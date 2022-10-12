@@ -4,13 +4,9 @@
 <h1 align="center">Hey I'm Aashutosh Goyal</h1>
 <h3 align="center">Frontend Developer</h3>
 <p align="center"
-
-<a href = "emailto: aashutosh89660@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" />&nbsp</a>
+<a href = "emailto: aashutosh89660@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" /></a>
 </p>
 </p>
-
-
-
 <p align="center">
   <em>
     This is ME, Aashutosh Goyal, a <b>third year</b> undergraduate from <a href="https://www.ietdavv.edu.in//"> <b>Institue of engineering & technology</b>, Indore</a>. <br>
