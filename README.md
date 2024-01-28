@@ -23,11 +23,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Talking about Personal Stuffs...**
 
-✔ Pronouns: **he/Him* or *TeamMaker**😉 <br>
+✔ Pronouns: **he/Him* or *TeamMaker** <br>
 ✔ I’m currently learning *javascript* & *jquery*<br>
 ✔ I’m looking to collaborate with any *Open - Source contribution*<br>
 ✔ I’m looking for help for learning *Web Development*<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 
  
 
