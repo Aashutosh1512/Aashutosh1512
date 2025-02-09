@@ -1,50 +1,84 @@
 <p align="center">
-</p>
-<h1 align="center">Hey, I'm Aashutosh Goyal</h1>
-<h3 align="center">Software Engineer</h3>
-<p align="center">
-    <a href="mailto:aashutosh89660@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/aashutosh-goyal-91942a1ba/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
-    <a href="https://github.com/Aashutosh1512" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" width="40" /></a>
-</p>
-
-<p align="center">
-  <em>
-    I am a <b>Backend Developer</b> with expertise in building scalable distributed systems. I hold a <b>Bachelor of Engineering (B.E.) in Information Technology</b> from 
-    <a href="https://www.ietdavv.edu.in/"><b>Institute of Engineering and Technology, DAVV</b></a>, Indore. <br>
-    I specialize in <b>API integrations, middleware services, and optimizing system performance</b>. I am also a <b>competitive programming enthusiast</b> and love solving algorithmic challenges. <br>
-    My goal is to continuously improve, grow, and excel in the field of software development.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <h1 align="center">Aashutosh Goyal</h1>
+  <h3 align="center">Software Engineer</h3>
+  <p align="center">
+    <a href="mailto:aashutosh89660@gmail.com">Email</a> • 
+    <a href="https://www.linkedin.com/in/aashutosh-goyal-91942a1ba/" target="_blank">LinkedIn</a> • 
+    <a href="https://github.com/Aashutosh1512" target="_blank">GitHub</a>
+  </p>
 </p>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**About Me...**
-- 📌 Pronouns: **he/him** or **TeamMaker**  
-- 💻 I’m currently working as a **Software Engineer** at Anko GCC (Kmart Australia Sourcing).  
-- 🔭 I’m currently learning **advanced backend technologies** and exploring **cloud-native solutions**.  
-- 🤝 I’m looking to collaborate on **open-source projects** and contribute to meaningful software solutions.  
-- 📚 Ask me about **API design, middleware development, or competitive programming**—I’m happy to help!  
+---
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Languages & Tools I Use...**
-<p align="left">
-    <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-    <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-    <a href="https://kafka.apache.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/apache-kafka.png"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code.png"/></a>
-</p>
+### **About Me**
+I am a **Backend Developer** with expertise in building scalable distributed systems and middleware services. I hold a **Bachelor of Engineering (B.E.) in Information Technology** from [Institute of Engineering and Technology, DAVV](https://www.ietdavv.edu.in/), Indore.  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Achievements...**
-- 🏆 Achieved **top 1.5% ranking (AIR 361, Global Rank 2063)** in TCS CodeVita Season 11, competing against 140,000+ developers from 61 countries.  
-- 💻 Solved **650+ problems** on [LeetCode](https://leetcode.com/Aashutosh1512).  
+I specialize in **API integrations, system optimization, and cloud-native solutions**. I am also a **competitive programming enthusiast**, having solved 650+ problems on LeetCode and achieved a top 1.5% ranking in TCS CodeVita Season 11.  
 
+My goal is to continuously improve, grow, and excel in the field of software development by contributing to meaningful projects and exploring cutting-edge technologies.
 
+---
+
+### **Experience**
+
+**Software Engineer**  
+*Anko GCC (Kmart Australia Sourcing)* – Indore, India  
+*February 2024 – October 2024*
+- Worked on a middleware service designed to facilitate communication between multiple distributed systems, ensuring seamless data exchange and system interoperability.
+- Implemented and managed API integrations, enhancing data exchange efficiency across distributed systems.
+- Optimized existing codebase with comprehensive unit testing, improving application performance by 20% and reducing load time.
+- Implemented ETag-based concurrency control in a RESTful API to resolve contention issues, ensuring data consistency and improving system reliability, reducing data conflicts by 40%.
+- Handled high-volume data streams using Kafka, ensuring fault tolerance and reliable message delivery.
+- Optimized logging strategy to reduce memory allocation by 20% and improved request traceability for debugging and monitoring purposes.
+- Refactored legacy code using the latest ORM (Object Relational Mapping), significantly reducing API load time.
+- Authored extensive unit tests with an automated CI/CD pipeline in GitHub Actions, achieving 80% code coverage and reducing failed merges by 25%.
+
+---
+
+### **Skills**
+
+**Programming Languages:** C++, C#, Java, SQL, JavaScript  
+**Frameworks & Libraries:** React, .NET, Node.js, Express  
+**Databases:** MySQL, MongoDB, Redis, PostgreSQL, SQL Server  
+**Developer Tools:** GitHub, Visual Studio, VS Code, Docker, Postman, Swagger  
+**Message Broker:** Kafka  
+
+---
+
+### **Achievements**
+- Achieved **top 1.5% ranking (AIR 361, Global Rank 2063)** in TCS CodeVita Season 11, competing against 140,000+ developers from 61 countries.
+- Solved **650+ problems** on [LeetCode](https://leetcode.com/Aashutosh1512).
+
+---
+
+### **Projects**
+
+**Online Assessments System**  
+*Technologies: React, Node.js, MongoDB*  
+- Designed and developed a full-stack web application for students to assess their knowledge in Computer Science subjects.
+- Created a user-friendly system allowing students to input their email addresses and receive immediate assessment results via email, improving engagement by 10%.
+- Enhanced user authentication and security by implementing OAuth and JWT, ensuring secure handling of user data.
+- GitHub Repository: [Online-Assessment](https://github.com/Online-Assessment).
+
+---
+
+### **Education**
+
+**Institute of Engineering and Technology, DAVV**  
+*Bachelor of Engineering (B.E.) in Information Technology*  
+CGPA: 8.02/10  
+
+**Raghuwansh Public School**  
+*Class 12th* – Percentage: 88.6%  
+
+**Sendhwa Public School**  
+*Class 10th* – Percentage: 93.5%
+
+---
+
+### **What's Next?**
+- Currently learning **advanced backend technologies** and exploring **cloud-native solutions**.
+- Looking to collaborate on **open-source projects** and contribute to meaningful software solutions.
+- Feel free to reach out if you'd like to discuss **API design, middleware development, or competitive programming**—I’m always happy to help!
 
 ---
