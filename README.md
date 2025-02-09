@@ -4,13 +4,13 @@
 <h3 align="center">Software Engineer | Backend & Middleware Developer</h3>
 <p align="center">
     <a href="mailto:aashutosh89660@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" height="40" width="40" /></a>
-    <a href="https://www.linkedin.com/in/Aashutosh" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
+    <a href="https://www.linkedin.com/in/aashutosh-goyal-91942a1ba/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" /></a>
     <a href="https://github.com/Aashutosh1512" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="40" width="40" /></a>
 </p>
 
 <p align="center">
   <em>
-    I am a <b>Backend and Middleware Developer</b> with expertise in building scalable distributed systems. I hold a <b>Bachelor of Engineering (B.E.) in Information Technology</b> from 
+    I am a <b>Backend Developer</b> with expertise in building scalable distributed systems. I hold a <b>Bachelor of Engineering (B.E.) in Information Technology</b> from 
     <a href="https://www.ietdavv.edu.in/"><b>Institute of Engineering and Technology, DAVV</b></a>, Indore. <br>
     I specialize in <b>API integrations, middleware services, and optimizing system performance</b>. I am also a <b>competitive programming enthusiast</b> and love solving algorithmic challenges. <br>
     My goal is to continuously improve, grow, and excel in the field of software development.
