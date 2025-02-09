@@ -45,10 +45,6 @@
 - 🏆 Achieved **top 1.5% ranking (AIR 361, Global Rank 2063)** in TCS CodeVita Season 11, competing against 140,000+ developers from 61 countries.  
 - 💻 Solved **650+ problems** on [LeetCode](https://leetcode.com/Aashutosh1512).  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**Projects...**
-- **Online Assessments System**  
-  - Built a full-stack web application using **React, Node.js, and MongoDB** for students to assess their knowledge in Computer Science subjects.  
-  - Implemented **OAuth and JWT** for secure user authentication and enhanced user engagement by 10%.  
-  - GitHub Repository: [Online-Assessment](https://github.com/Online-Assessment).  
+
 
 ---
