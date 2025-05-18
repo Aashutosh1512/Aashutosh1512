@@ -11,7 +11,9 @@
 ---
 
 ### **About Me**
-I am a **Backend Developer** with expertise in building scalable distributed systems and middleware services. I hold a **Bachelor of Engineering (B.E.) in Information Technology** from [Institute of Engineering and Technology, DAVV](https://www.ietdavv.edu.in/), Indore.  
+I am a **Backend Developer** with expertise in building scalable distributed systems and middleware services. I hold a **Bachelor of Engineering (B.E.) in Information Technology** from [Institute of Engineering and Technology, DAVV](https://www.ietdavv.edu.in/), Indore. 
+
+I am currently Working as Backend Developer at Anko Gcc Bangalore 
 
 I specialize in **API integrations, system optimization, and cloud-native solutions**. I am also a **competitive programming enthusiast**, having solved 650+ problems on LeetCode and achieved a top 1.5% ranking in TCS CodeVita Season 11.  
 
