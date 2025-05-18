@@ -25,7 +25,7 @@ My goal is to continuously improve, grow, and excel in the field of software dev
 
 **Software Engineer**  
 *Anko GCC (Kmart Australia Sourcing)* – Indore, India  
-*February 2024 – October 2024*
+*February 2024 – till date *
 - Worked on a middleware service designed to facilitate communication between multiple distributed systems, ensuring seamless data exchange and system interoperability.
 - Implemented and managed API integrations, enhancing data exchange efficiency across distributed systems.
 - Optimized existing codebase with comprehensive unit testing, improving application performance by 20% and reducing load time.
